@@ -13,11 +13,11 @@ git clone https://github.com/yukta12/Restaurant-Ordering.git
 run index.html file
 
 ```
-##Images
+## Images
 
 ![picture](https://github.com/yukta12/Browse-weather/blob/master/ss-1.PNG)
 
-##### displaying weather
+### Displaying weather
 ![picture](https://github.com/yukta12/Browse-weather/blob/master/ss-2.PNG)
 
 
