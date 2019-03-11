@@ -7,7 +7,7 @@ A Basic weather application to know weather conditions, temperature(min|max) hum
 Light weight repository
 
 ```bash
-git clone https://github.com/yukta12/Restaurant-Ordering.git
+git clone https://github.com/yukta12/Browse-weather.git
 
 #starting the project
 run index.html file
